@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hitesh Pal React Js Course
+          Hitesh Pal Full Stack React Js Course 
         </a>
       </header>
     </div>
